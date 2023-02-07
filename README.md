@@ -63,6 +63,14 @@
       height="40"
     />
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
+      alt="material-ui"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
